@@ -1,0 +1,15 @@
+Metric,Value
+AUC,0.7004
+HL_PValue,0.0005
+HL_Statistic,27.6917
+N_Influential,233.0
+Pct_Influential,2.3
+PseudoR2_Cox-Snell,0.107
+PseudoR2_McFadden,0.088
+PseudoR2_Nagelkerke,0.1478
+VIF_log_dist_federal,1.51
+VIF_log_dist_spills,1.46
+VIF_log_dist_superfund,1.31
+VIF_log_population,1.18
+VIF_owner_private,1.04
+VIF_source_water_SW,1.09
