@@ -1,0 +1,27 @@
+Location,Old_Value,New_Value,Source
+"Table 1, PFNA PWS Det (n)",79,83,det_PFNA sum
+"Table 1, PFOS PWS Det (n)","verify 1,336",1336,det_PFOS sum
+"Table 1, PFOA PWS Det (n)","verify 1,288",1288,det_PFOA sum
+"Table 1/Sec 3.2, PFOS Exceed n","verify 1,309",1309,exceeds_pfos sum
+"Table 1/Sec 3.2, PFOS Exceed %",12.44%,12.71%,exceeds_pfos/N
+"Table 1/Sec 3.2, PFOA Exceed %",11.90%,12.23%,exceeds_pfoa/N
+"Table 1, PFHxS Exceed n",verify 171,171,exceeds_pfhxs sum
+"Sec 3.2, PFNA exceedance count",20,21,exceeds_pfna sum
+"Table 1, PFNA Exceed %",0.19%,0.20%,exceeds_pfna/N
+"Sec 3.2, HFPO-DA exceedance count",15,16,exceeds_hfpo_da sum
+"Table 1, HFPO-DA Exceed %",0.15%,0.16%,exceeds_hfpo_da/N
+"Sec 3.2/SI, HI > 1 (≥2 comp)",195→196,196,exceeds_hi sum
+"Sec 3.2, HI > 1 total (any)",228,230,exceeds_hi_total sum
+"Sec 3.2, PFOS+PFOA co-exceedance",875,875,exceeds_both_pfos_pfoa sum
+"Various, Any MCL exceedance","verify 1,717",1717,exceeds_any_mcl sum
+"Various, Any NPDWR exceedance","verify 1,718",1718,exceeds_any_npdwr sum
+Treatment among exceedance,166,175,has_pfas_treatment among exceeds_any_mcl
+Treatment rate,10.2%,10.2%,n_treat / n_exceedance
+Treatment among NPDWR exceedance,?,175,has_pfas_treatment among exceeds_any_npdwr
+Treatment gap denominator (MCL vs NPDWR),1717 vs 1718,1717 vs 1718,diff = HI-only systems
+"Sec 3.6, purchased water exceedance systems",572,590,is_purchased among exceeds_any_mcl
+"Sec 3.6, non-purchased exceedance systems","1,100",1127,
+"Sec 3.6, pop without treatment",~67M,"67,487,984",pop among exceedance & no treatment
+"Sec, systems with prior PFAS awareness","4,627",4407,pfas_occurrence == 'Yes'
+"Among aware, PFAS treatment",354 (8.0%),341 (7.7%),
+"SI S16, '195 PWS' for HI",195,196,exceeds_hi sum

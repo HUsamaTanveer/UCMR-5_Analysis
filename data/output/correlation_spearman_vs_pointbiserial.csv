@@ -1,0 +1,7 @@
+Subset,N,Outcome,N_Exceedance,Spearman_Rho,Spearman_P,Point_Biserial_R,Point_Biserial_P,Pearson_R,Pearson_P,Rho_vs_RPB_Diff
+All systems,10297,exceeds_any_npdwr,1718,0.7157,0.0,0.7865,0.0,0.7865,0.0,0.0708
+All systems,10297,exceeds_any_mcl,1717,0.7155,0.0,0.7864,0.0,0.7864,0.0,0.0709
+All systems,10297,exceeds_hi,196,0.2585,6.523598501384956e-157,0.3878,0.0,0.3878,0.0,0.1292
+Detected systems only,3539,exceeds_any_npdwr,1718,0.6238,0.0,0.6203,0.0,0.6203,0.0,0.0035
+Detected systems only,3539,exceeds_any_mcl,1717,0.6235,0.0,0.6201,0.0,0.6201,0.0,0.0034
+Detected systems only,3539,exceeds_hi,196,0.3117,1.2869278164712553e-80,0.3768,8.85120024770066e-120,0.3768,8.85120024770066e-120,0.065
