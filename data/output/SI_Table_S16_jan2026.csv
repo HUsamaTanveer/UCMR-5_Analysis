@@ -1,0 +1,14 @@
+Tier,PWS_Count,Population_Served,Pct_Total_Pop
+All monitored systems,10297,302374366,100.0
+Any PFAS detected,3539,151355790,50.1
+Any regulated PFAS detected,1975,87925860,29.1
+Any MCL screening exceedance,1717,80108420,26.5
+PFOS screening exceedance,1309,66728295,22.1
+PFOA screening exceedance,1259,60768541,20.1
+Both PFOS and PFOA exceeding,875,47702483,15.8
+HI > 1 (≥2 components),196,13926447,4.6
+Any NPDWR exceedance,1718,80115920,26.5
+"Any exceedance, no PFAS treatment",1542,67487984,22.3
+"Any exceedance, has PFAS treatment",175,12620436,4.2
+"NPDWR exceedance, no treatment",1543,67495484,22.3
+"NPDWR exceedance, has treatment",175,12620436,4.2

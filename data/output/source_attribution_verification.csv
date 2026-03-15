@@ -1,0 +1,21 @@
+Category,n_systems,Compound,n_detected,detection_pct,wilson_ci_lower,wilson_ci_upper
+Airport Operations,286,PFOS,63,22.0,17.6,27.2
+Airport Operations,286,PFOA,57,19.9,15.7,24.9
+Airport Operations,286,PFHxS,62,21.7,17.3,26.8
+Airport Operations,286,PFBS,73,25.5,20.8,30.9
+Military Base,240,PFOS,77,32.1,26.5,38.2
+Military Base,240,PFOA,64,26.7,21.5,32.6
+Military Base,240,PFHxS,79,32.9,27.3,39.1
+Military Base,240,PFBS,76,31.7,26.1,37.8
+Utilities/Sewage,266,PFOS,54,20.3,15.9,25.5
+Utilities/Sewage,266,PFOA,49,18.4,14.2,23.5
+Utilities/Sewage,266,PFHxS,35,13.2,9.6,17.7
+Utilities/Sewage,266,PFBS,65,24.4,19.7,29.9
+Manufacturing,236,PFOS,52,22.0,17.2,27.7
+Manufacturing,236,PFOA,68,28.8,23.4,34.9
+Manufacturing,236,PFHxS,37,15.7,11.6,20.9
+Manufacturing,236,PFBS,66,28.0,22.6,34.0
+Fire Training/Services,223,PFOS,57,25.6,20.3,31.7
+Fire Training/Services,223,PFOA,41,18.4,13.9,24.0
+Fire Training/Services,223,PFHxS,51,22.9,17.8,28.8
+Fire Training/Services,223,PFBS,57,25.6,20.3,31.7

@@ -1,0 +1,8 @@
+Metric,N_Quarters,Kendall_Tau,P_Value,Sen_Slope,Significant
+Sample detection rate (all PFAS),12,-0.1818,0.459,-0.000198,ns
+PFOS sample detection rate,12,-0.1212,0.6384,-0.00074,ns
+PFOA sample detection rate,12,0.1515,0.5452,0.000678,ns
+MCL exceedance rate (per quarter),12,-0.1515,0.5452,-0.000571,ns
+Median concentration (all detected),12,0.3567,0.1122,7.6e-05,ns
+Median PFOS concentration (detected),12,0.0158,0.9446,0.0,ns
+PWS cohort detection rate,12,-0.4242,0.0629,-0.015553,ns

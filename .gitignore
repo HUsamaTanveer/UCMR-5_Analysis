@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data - raw inputs too large for GitHub (see data/README.md for download links)
+data/raw/
+
+# Temporary files
+*.tmp
+*.bak
+*.log

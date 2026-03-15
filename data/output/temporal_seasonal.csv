@@ -1,0 +1,5 @@
+season,Samples,Detections,Det_Rate_Pct,Median_Conc_ugL
+Fall,465600,9600,2.062,0.0056
+Spring,486459,9319,1.916,0.0054
+Summer,476095,9751,2.048,0.0055
+Winter,435152,8876,2.04,0.0055
