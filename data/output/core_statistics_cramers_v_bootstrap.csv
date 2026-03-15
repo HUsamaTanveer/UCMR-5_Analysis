@@ -1,0 +1,2 @@
+Statistic,Point_Estimate,CI_Lower,CI_Upper,Bootstrap_N
+Cramers_V,0.10344067691375608,0.10191695892783591,0.1046546125856414,50

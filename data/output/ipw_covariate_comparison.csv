@@ -1,0 +1,10 @@
+Variable,With_Demo_Data,Without_Demo_Data,SMD,Test_Statistic,P_Value,Significant
+Any PFAS Detection Rate (%),35.48,33.47,0.042,chi2=4.38,0.03629753908749481,*
+Any MCL Exceedance Rate (%),17.82,15.74,0.056,chi2=7.60,0.005822782613789341,*
+Log Population Served (mean),9.34,9.08,0.192,U=14031145,3.601904877428889e-21,*
+Surface Water (%),50.98,51.32,0.007,chi2=0.10,0.7498753336830888,
+Private Ownership (%),13.07,13.04,0.001,chi2=0.00,0.9822595630866555,
+Log Dist to Superfund (mean),4.09,4.29,0.163,U=11358002,9.548589572325343e-19,*
+Log Dist to Spills (mean),3.62,3.66,0.043,U=12491096,0.27567509923236944,
+Log Dist to Federal (mean),3.48,3.55,0.078,U=12230820,0.004100302509146328,*
+N PFAS Detected (mean),1.24,1.10,0.067,U=12972514,0.009206362722083503,*

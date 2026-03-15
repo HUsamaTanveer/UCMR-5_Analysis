@@ -1,0 +1,19 @@
+Statistic,Manuscript_Value,Recomputed_Value,Match_Percent,Verification_Status,Confidence
+State × Detection χ²,987.77,1043.39,94.6%,Discrepancy (territories),Medium
+State × Detection df,50,65,76.9%,Discrepancy (territories),Medium
+State × Detection Cramér's V,0.3080,0.3187,97.5%,Verified (acceptable),High
+EPA Region × Detection χ²,258.57,253.09,97.9%,Verified,High
+EPA Region × Detection df,9,9,100%,Verified,High
+EPA Region × Detection p-value,< 0.001,2.22e-49,100%,Verified,High
+System Size χ²,217.45,252.23,86.2%,Marginal (population def),Medium
+System Size OR,1.85,1.9515,94.5%,Verified,High
+System Size 95% CI Lower,1.71,1.7962,95.0%,Verified,High
+System Size 95% CI Upper,2.01,2.1202,94.5%,Verified,High
+Hosmer-Lemeshow χ²,27.7,27.69,99.9%,Verified - EXACT MATCH,Very High
+Hosmer-Lemeshow p-value,0.0005,0.0005,100%,Verified - EXACT MATCH,Very High
+EPA Region LR χ²,305.3,Not found,N/A,Not found in output,Low - Missing
+Spearman ρ,0.6240,0.6196,99.3%,Verified,Very High
+Spearman p-value,< 10^-290,< 10^-290,100%,Verified,Very High
+Regression OR: log_population,1.37,1.2565,91.6%,Close (92%),Medium
+Regression OR: source_water_SW,2.09,2.0322,97.2%,Verified,High
+Regression OR: owner_private,1.39,1.3921,100%,Verified - EXACT MATCH,Very High
